@@ -1,6 +1,6 @@
-# corona_guide
+# Dice Roll App
 
-A new Flutter project.
+Designing of a basic Dice App with 2 dies. Tapping a single die rolls that respective die and tapping the floating action button rolls both the dies.
 
 ## Getting Started
 
