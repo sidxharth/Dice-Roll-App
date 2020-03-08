@@ -1,6 +1,10 @@
 # Dice Roll App
 
+![](app.jpg)
+
 Designing of a basic Dice App with 2 dies. Tapping a single die rolls that respective die and tapping the floating action button rolls both the dies.
+
+![](vid.mp4)
 
 ## Getting Started
 
